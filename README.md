@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Backend`**
 
-Me chamo Paulo Roberto Santiago Lopes, tenho 22 anos, natural de São Paulo. Estou cursanso ciência da computação, com foco em aprendizado no backend. Buscando sempre melhorar para um dia chegar no meu objetivo, caso tenha alguma dica sempre será bem aceita 😉.
+Me chamo Paulo Roberto Santiago Lopes, tenho 22 anos, natural de São Paulo. Estou cursanso ciência da computação, com foco em análise de dados. Buscando sempre melhorar para um dia chegar no meu objetivo, caso tenha alguma dica sempre será bem aceita 😉.
 
 <p align="left">
     </a> 
