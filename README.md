@@ -52,11 +52,11 @@ Me chamo Paulo Roberto Santiago Lopes, tenho 22 anos, natural de São Paulo. Est
 />
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
+    alt="PowerBI" 
+    title="PowerBI"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    src="http://www.w3.org/1999/xlink"
 />
 <img 
     align="left" 
