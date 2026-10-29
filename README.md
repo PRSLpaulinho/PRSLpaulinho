@@ -54,7 +54,7 @@ Me chamo Paulo Roberto Santiago Lopes, tenho 22 anos, natural de São Paulo. Est
     align="left" 
     alt="PowerBI" 
     title="PowerBI"
-    width="30px" 
+    width="20px" 
     style="padding-right: 10px;" 
     src="https://cdn.svglogos.dev/logos/microsoft-power-bi.svg"
 />
